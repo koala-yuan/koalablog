@@ -9,8 +9,6 @@ pnpm-debug.log*
 node_modules
 .temp
 .cache
-dist
-dist-ssr
 *.local
 
 # Editor directories and files
