@@ -12,7 +12,6 @@ console.log('#### resolve', resolve('public'))
 
 export default defineUserConfig({
   lang: 'zh-CN',
-  base: '/blog/',
   outDir: './dist',
   locales: {
     '/': { lang: 'zh-CN', title: 'Koala', description: '热爱生活' },
